@@ -1,2 +1,2 @@
-Pymem==1.0
-#pywin32
+pymem==1.2.1
+requests==2.26.0
